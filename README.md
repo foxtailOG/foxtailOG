@@ -22,9 +22,6 @@ Programmer and Designer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/foxtailOG/RexJob" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=foxtailOG&repo=RexJob&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=foxtailOG&limit=5&theme=dark&combine_all_yearly_contributions=true)
