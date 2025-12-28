@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vishal Chaudhary
+=========================================================================================================================================
+
+Programmer and Designer
+-----------------------
 
 # 💫 About Me:
 🔭 I’m currently working with CODTECH IT SOLUTION PVT.LTD<br>👯 I’m looking to collaborate with Tech Industry<br>🤝 I’m looking for help with Programming and Designing <br>🌱 I’m currently learning Project Managenment and Data Science<br>💬 Ask me about Tech and Ideas<br>
